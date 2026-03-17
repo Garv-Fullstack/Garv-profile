@@ -107,7 +107,7 @@ Practicing DSA for interviews
 
 <h2>📫 Connect</h2>
 
-GitHub: https://github.com/Garv-Fullstack
+GitHub: (https://github.com/Garv-Fullstack/Garv-profile.git)
 
 LinkedIn: (https://www.linkedin.com/in/gourav-vijayvargiya-45260623a/)
 <br />
