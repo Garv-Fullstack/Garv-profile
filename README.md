@@ -1,6 +1,6 @@
 # Garv-profile
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Future+Tech+Builder;Consistency+Wins+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=MERN+Full+Stack+Developer;Problem+Solver;Future+Tech+Builder;Consistency+Wins+🔥" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Gourav Vijayvargiya</h1>
@@ -22,7 +22,11 @@ I’m a developer transitioning from Accounting → Tech, combining domain knowl
 <br />
 
 
-<>h2💡 Vision: Automate complex accounting tasks using software</h2>
+<h2>💡 Vision: Automate complex accounting tasks using software</h2>
+
+<br />
+<br />
+
 
 <h2>⚡ Approach: Think → Build → Improve → Repeat</h2>
 <br />
