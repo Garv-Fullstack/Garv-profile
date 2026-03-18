@@ -1,6 +1,6 @@
 # Garv-profile
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Learner;Future+Tech+Builder;Consistency+Wins+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Future+Tech+Builder;Consistency+Wins+🔥" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Gourav Vijayvargiya</h1>
@@ -18,9 +18,13 @@ I’m a developer transitioning from Accounting → Tech, combining domain knowl
 
 📊 Strong understanding of financial workflows
 
-💡 Vision: Automate complex accounting tasks using software
+<br />
+<br />
 
-⚡ Approach: Think → Build → Improve → Repeat
+
+<>h2💡 Vision: Automate complex accounting tasks using software</h2>
+
+<h2>⚡ Approach: Think → Build → Improve → Repeat</h2>
 <br />
 <br />
 
@@ -118,7 +122,7 @@ LinkedIn: (https://www.linkedin.com/in/gourav-vijayvargiya-45260623a/)
 <br />
 <br />
 
-🎯 2026 Roadmap
+<h2>🎯 2026 Roadmap</h2>
 
 🚀 Build 5+ advanced full stack projects
 
