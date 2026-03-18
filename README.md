@@ -4,7 +4,7 @@
 </p>
 
 <hr />
-<h1 align="center" style="color:#ff6600;">👋 Hi, I'm Gourav Vijayvargiya</h1>
+<h1 align="center">👋 Hi, I'm Gourav Vijayvargiya</h1>
 
 <p align="center">🚀 Full Stack Developer (MERN) | Building Real-World Solutions | Problem Solver</p>
 <br />
