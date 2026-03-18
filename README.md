@@ -43,7 +43,7 @@ I’m a developer transitioning from Accounting → Tech, combining domain knowl
 <br />
 
 <h2>🚀 Featured Projects</h2>
-📊 Financial Automation System (Flagship Project)
+<h3>📊 Financial Automation System (Flagship Project)</h3>
 
 Convert raw accounting data into structured financial statements
 
