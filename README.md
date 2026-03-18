@@ -70,10 +70,8 @@ A real-world website built for social impact
 <br />
 <br />
 
-📈 GitHub Analytics
-<br />
 
-📊 Engineering Mindset
+<h2>📊 Engineering Mindset</h2>
 <br />
 
 ✅ Write clean, maintainable code
