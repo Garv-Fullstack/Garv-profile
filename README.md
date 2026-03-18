@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=MERN+Full+Stack+Developer;Problem+Solver;Future+Tech+Builder;Consistency+Wins+🔥" />
 </p>
 
+<hr />
 <h1 align="center">👋 Hi, I'm Gourav Vijayvargiya</h1>
 
 <p align="center">🚀 Full Stack Developer (MERN) | Building Real-World Solutions | Problem Solver</p>
