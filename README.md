@@ -63,18 +63,6 @@ Convert raw accounting data into structured financial statements
 <br />
 <br />
 
-<h3>🌐 Cow Care Trust Website</h3>
-
-A real-world website built for social impact
-
-🔹 Responsive UI using HTML & CSS
-
-🔹 Structured layout for trust management
-
-🔹 Clean and accessible design
-<br />
-<br />
-
 
 <h2>📊 Engineering Mindset</h2>
 <br />
